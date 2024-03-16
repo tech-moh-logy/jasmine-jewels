@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Jasmine's Jewelries</h1>
+  <p>Enhanced with a personalized chatbot.</p>
 </div>
 
 [Live Demo of MOHAMMED's Jasmine's Jewelries](https://jasminesjewelries-mohammed-design.netlify.app)
@@ -7,6 +8,10 @@
 Jasmine's Jewelries is a distinguished brand known for its exquisite designs and superior craftsmanship. 
 
 [User Experience Research Study Proposal for Jasmine's Jewelries](#)
+
+<br>
+
+![Jasmine's Jewelries](https://github.com/tech-moh-logy/jasmine-jewels/assets/132733865/38358032-8885-404d-bbfe-1e67e84f6508)
 
 # Jasmine's Jewelries ChatBot
 
