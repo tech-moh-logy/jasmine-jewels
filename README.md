@@ -1,7 +1,13 @@
 <div align="center">
   <h1>Jasmine's Jewelries</h1>
-  <p>Enhanced with a personalized chatbot.</p>
+  A Luxurious Frontend Application featuring a personalized CHATBOT experience. 
 </div>
+
+<br>
+
+Code available on request. Contact me via [LinkedIn](https://www.linkedin.com/in/mohtech/).
+
+<hr>
 
 [Live Demo of MOHAMMED's Jasmine's Jewelries](https://jasminesjewelries-mohammed-design.netlify.app)
 
